@@ -1,0 +1,33 @@
+{
+  "vlans": [
+    {
+      "id": 10,
+      "name": "SALES",
+      "description": "Sales Department VLAN",
+      "action": "add"
+    },
+    {
+      "id": 20,
+      "name": "ENGINEERING",
+      "description": "Engineering Department VLAN", 
+      "action": "add"
+    },
+    {
+      "id": 30,
+      "name": "GUEST",
+      "description": "Guest Access VLAN",
+      "action": "add"
+    },
+    {
+      "id": 99,
+      "name": "OLD_VLAN",
+      "action": "remove"
+    }
+        {
+      "id": 666,
+      "name": "GU",
+      "description": "Gu",
+      "action": "add"
+    }
+  ]
+}

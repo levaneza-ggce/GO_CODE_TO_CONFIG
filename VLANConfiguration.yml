@@ -1,0 +1,28 @@
+vlans:
+  - id: 10
+    name: "SALES"
+    description: "Sales Department VLAN"
+  
+  - id: 20
+    name: "ENGINEERING"
+    description: "Engineering Department VLAN"
+  
+  - id: 30
+    name: "GUEST"
+    description: "Guest Access VLAN"
+  
+  - id: 100
+    name: "MANAGEMENT"
+    description: "Management VLAN"
+
+  - id: 666
+    name: "DEV"
+    description: "Management VLAN"
+
+  - id: 667
+    name: "IL"
+    description: "Management VLAN"
+
+  - id: 668
+    name: "A"
+    description: "Management VLAN"
